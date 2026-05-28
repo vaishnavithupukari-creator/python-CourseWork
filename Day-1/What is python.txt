@@ -1,0 +1,100 @@
+A Procedural Programming Language is a type of programming language in which a program is written as a collection of procedures or functions that perform specific tasks step by step.
+
+It follows a sequence of instructions to solve a problem.
+
+Features of Procedural Programming
+Program is divided into functions/procedures
+Uses step-by-step execution
+Easy to understand and debug
+Reusable functions can be created
+Focuses on procedures rather than data
+Examples
+C programming language
+Pascal
+FORTRAN
+BASIC
+Advantages
+Simple and easy for beginners
+Code can be reused using functions
+Easier testing and debugging
+Disadvantages
+Difficult to manage very large programs
+Less secure compared to Object-Oriented Programming
+Data is less protected
+
+Introduction of Object Oriented Programming
+Last Updated : 9 Feb, 2023
+As the name suggests, Object-Oriented Programming or OOPs refers to languages that use objects in programming. Object-oriented programming aims to implement real-world entities like inheritance, hiding, polymorphism, etc in programming. The main aim of OOP is to bind together the data and the functions that operate on them so that no other part of the code can access this data except that function.
+
+OOPs Concepts:
+
+Class
+Objects
+Data Abstraction 
+Encapsulation
+Inheritance
+Polymorphism
+Dynamic Binding
+Message Passing
+
+What is python?
+
+Python is one of the most popular programming languages. It’s simple to use, packed with features and supported by a wide range of libraries and frameworks. Its clean syntax makes it beginner-friendly.
+
+A high-level language, used in data science, automation, AI, web development and more.
+Known for its readability, which means code is easier to write, understand and maintain.
+Backed by strong library support, we don’t have to build everything from scratch.
+
+Requires fewer lines of code compared to other programming languages like Java.
+Provides libraries and frameworks such as Django and Flask for web development and tools like Pandas, TensorFlow an
+ Scikit-learn for artificial intelligence, machine learning and data analysis.
+Cross-platform, works on Windows, Mac and Linux without major changes.
+Used by top tech companies like Google, Netflix and NASA.
+Many Python coding job opportunities in Software Development, Data Science and AI/ML.
+
+4. Why Python ?
+
+Easy to Learn and Read
+
+Simple, English-like syntax makes it beginner-friendly.
+Code is clean and readable, reducing development time.
+Versatile and General-Purpose
+
+Can be used for web development, data science, AI/ML, automation, game development, IoT, and more.
+Large Standard Library
+
+Comes with built-in modules for file handling, math, networking, databases, etc., so you don’t need to write everything from scratch.
+Cross-Platform
+
+Runs on Windows, macOS, Linux, and even mobile/embedded systems without major changes.
+Strong Community Support
+
+Millions of developers contribute to libraries, frameworks, and tutorials, making problem-solving easier.
+Rich Ecosystem of Libraries
+
+Examples:
+NumPy, Pandas → Data analysis
+TensorFlow, PyTorch → Machine learning
+Flask, Django → Web development
+OpenCV → Computer vision
+Integration Friendly
+
+Works well with C/C++, Java, .NET, and APIs, making it great for mixed-technology projects.
+
+5. Differences b/w memory allocation in Procedural and Object oriented Programming Language?
+
+| Feature                 | Procedural Programming Language                                  | Object-Oriented Programming Language                                 |
+| ----------------------- | ---------------------------------------------------------------- | -------------------------------------------------------------------- |
+| **Basis of allocation** | Memory is allocated mainly for functions and variables           | Memory is allocated mainly for objects and classes                   |
+| **Data handling**       | Data and functions are separate                                  | Data and methods are combined into objects                           |
+| **Memory management**   | Uses static and dynamic memory allocation for variables          | Uses memory allocation for objects created from classes              |
+| **Allocation method**   | Variables are allocated during program execution or compile time | Objects are allocated at runtime using constructors/new keyword      |
+| **Reusability**         | Less memory reuse                                                | Better memory reuse through inheritance and objects                  |
+| **Encapsulation**       | No data hiding                                                   | Supports encapsulation, so memory is managed securely inside objects |
+| **Examples**            | C, Pascal                                                        | C++, Java, Python                                                    |
+| **Complexity**          | Simple memory structure                                          | More complex because each object contains data and methods           |
+| **Dynamic allocation**  | Uses functions like `malloc()` and `calloc()` in C               | Uses object creation like `new` in Java/C++                          |
+| **Memory efficiency**   | Efficient for small programs                                     | Better for large and complex applications                            |
+
+
+

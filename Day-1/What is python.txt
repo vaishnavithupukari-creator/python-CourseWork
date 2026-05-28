@@ -1,4 +1,4 @@
-A Procedural Programming Language is a type of programming language in which a program is written as a collection of procedures or functions that perform specific tasks step by step.
+1.A Procedural Programming Language is a type of programming language in which a program is written as a collection of procedures or functions that perform specific tasks step by step.
 
 It follows a sequence of instructions to solve a problem.
 
@@ -22,7 +22,7 @@ Difficult to manage very large programs
 Less secure compared to Object-Oriented Programming
 Data is less protected
 
-Introduction of Object Oriented Programming
+2.Introduction of Object Oriented Programming
 Last Updated : 9 Feb, 2023
 As the name suggests, Object-Oriented Programming or OOPs refers to languages that use objects in programming. Object-oriented programming aims to implement real-world entities like inheritance, hiding, polymorphism, etc in programming. The main aim of OOP is to bind together the data and the functions that operate on them so that no other part of the code can access this data except that function.
 
@@ -37,7 +37,7 @@ Polymorphism
 Dynamic Binding
 Message Passing
 
-What is python?
+3.What is python?
 
 Python is one of the most popular programming languages. It’s simple to use, packed with features and supported by a wide range of libraries and frameworks. Its clean syntax makes it beginner-friendly.
 
